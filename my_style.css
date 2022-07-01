@@ -1,0 +1,96 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.row {
+    min-width: 100vw;
+    display: flex;
+
+}
+
+.col {
+    min-height: 200px !important;
+    width: 33vw !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* p {
+    padding-top: 15%;
+} */
+
+a {
+    text-decoration: none;
+}
+
+#col-1 {
+    background-color: khaki;
+}
+#col-2 {
+    background-color: white;
+}
+
+#col-3 {
+    background-color: blue;
+}
+
+#col-4 {
+    background-color: white;
+}
+#col-5 {
+    background-color: grey;
+}
+
+#col-6 {
+    background-color: white;
+}
+
+#col-7 {
+    background-color: skyblue;
+}
+#col-8 {
+    background-color: white;
+}
+
+#col-9 {
+    background-color: lightblue;
+}
+
+
+#col-1:hover {
+    background-color: greenyellow;
+}
+
+#col-2:hover {
+    background-color: greenyellow;
+}
+
+#col-3:hover {
+    background-color: greenyellow;
+}
+
+#col-4:hover {
+    background-color: greenyellow;
+}
+
+#col-5:hover {
+    background-color: greenyellow;
+}
+
+#col-6:hover {
+    background-color: greenyellow;
+}
+
+#col-7:hover {
+    background-color: greenyellow;
+}
+
+#col-8:hover {
+    background-color: greenyellow;
+}
+
+#col-9:hover {
+    background-color: greenyellow;
+}
